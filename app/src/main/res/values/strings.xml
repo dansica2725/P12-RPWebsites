@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RP Websites</string>
+
+    //String Arrays
+    <string-array name="category">
+        <item>Social Media</item>
+        <item>Random Sites</item>
+    </string-array>
+
+    <string-array name="rp_sub_category">
+        <item>Facebook</item>
+        <item>Instagram</item>
+    </string-array>
+
+    <string-array name="soi_sub_category">
+        <item>Grab</item>
+        <item>Github</item>
+    </string-array>
+</resources>
